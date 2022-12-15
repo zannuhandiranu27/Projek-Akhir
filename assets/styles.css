@@ -1,0 +1,19 @@
+.card-columns {
+    display: inline-block 
+
+  }
+  .card-body{
+    
+    outline: 1px solid #000;
+    background-color:#e5fcfa;
+    
+    }
+    .card-title{
+      min-height: 100px;
+    }
+    .card-text {
+      min-height: 120px;
+    }
+    .card {
+      display: inline-block;
+  }
